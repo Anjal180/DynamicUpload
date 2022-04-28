@@ -1,0 +1,34 @@
+Project      :   Document Management
+Create by    :   Emisoft Solution
+____________________________________________________________________________________
+
+Server host Project
+--------------------------------------------
+Create folder in F Drive
+Folder name : Root
+F:\Root    (To store uploaded files) 
+
+
+On System
+----------------------------------------------
+Install Xampp on C drive
+Extracts project.zip on  C:\xampp\htdocs
+Start xammp control
+
+Browser:
+http://localhost/phpmyadmin/
+Create Databse : project
+Import : project.sql
+
+Create folder in F drive
+Folder name : Root
+F:\Root    (To store uploaded files)
+ 
+Run project in browser
+http://localhost/project/login.php
+
+username:admin@gmail.com
+password:admin
+
+Note: 
+if you extract zip in another folder add folder-name too.
